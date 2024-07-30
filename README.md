@@ -1,4 +1,4 @@
-git clone https://github.com/ramratansingh/Uplers_frontend.git
+git clone https://github.com/ramratansingh/Uplers_backend.git
 
 cd backend
 
